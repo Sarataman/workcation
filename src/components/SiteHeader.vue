@@ -28,8 +28,8 @@
                 </div>
                 <div class="relative px-5 py-5 sm:py-0 sm:ml-4 sm:px-0">
                 <div class="flex items-center sm:hidden">
-                    <img class="h-10 w-10 object-cover rounded-full border-2 border-gray-600" src="https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=256&q=80" alt="">
-                    <span class="ml-4 font-semibold text-gray-200 sm:hidden">Isla Schoger</span>
+                    <img class="h-10 w-10 object-cover rounded-full border-2 border-gray-600" src="/profile.jpg" alt="">
+                    <span class="ml-4 font-semibold text-gray-200 sm:hidden">Sarah Ataman</span>
                 </div>
                 <div class="mt-5 sm:hidden">
                     <a href="#account" class="block text-gray-400 hover:text-white">Account settings</a>
