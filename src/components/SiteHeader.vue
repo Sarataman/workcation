@@ -34,7 +34,9 @@
                 <div class="mt-5 sm:hidden">
                     <a href="#account" class="block text-gray-400 hover:text-white">Account settings</a>
                     <a href="#support" class="mt-3 block text-gray-400 hover:text-white">Support</a>
-                    <a href="#sign-out" class="mt-3 block text-gray-400 hover:text-white">Sign out</a>
+                    <router-link to="/">
+                      <a href="#sign-out" class="mt-3 block text-gray-400 hover:text-white">Sign out</a>
+                    </router-link>
                 </div>
                 <Dropdown class="hidden sm:block">
                     <template #trigger="{ hasFocus, isOpen }">
